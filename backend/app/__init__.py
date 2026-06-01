@@ -1,0 +1,2 @@
+"""InvoiceFlow backend application package."""
+
