@@ -6,10 +6,9 @@ None
 
 ## Completed
 
-None
+- Authentication
 
 ## Backlog
 
-- Authentication
 - Invoice creation
 - Email delivery
